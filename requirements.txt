@@ -1,0 +1,6 @@
+streamlit
+openai
+python-docx
+mammoth
+markdown
+beautifulsoup4
